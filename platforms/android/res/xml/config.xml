@@ -8,6 +8,7 @@
     <author href="http://www.astrale.mobi/" email="adinfo@ashita-planning.asia">
         AshitaPlanning
     </author>
+    <icon src="icon.png" />
     <content src="index.html" />
     <access origin="*" />
     <feature name="PushPlugin">
